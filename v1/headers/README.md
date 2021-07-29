@@ -11,7 +11,7 @@ Start integrating your application with our Word Embedding API and give your cli
 
 Request:
   ```
-  GET 'https://apis.nbg.gr/sandbox/word.embedding/headers/v1/words/closest?word=μικρότερη&num=100'
+  GET 'https://apis.nbg.gr/sandbox/word.embedding/headers/v1/words/closest?word=μικρότερη&num=10'
 ```
 Response:
 ```
